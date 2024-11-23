@@ -2,14 +2,13 @@
 
 ## Prompting Instruction
 
-1. Generate prompt structure using <claude.ai> 3.5 sonnet and provided project instructions
-2. Go to bolt.new and start with Next.js blank app (icon button at the bottom)
+1. Generate prompt structure using [claude.ai] 3.5 sonnet and provided project instructions
+2. Go to [bolt.new] and start with Next.js blank app (icon button at the bottom)
 3. Copy and paste generated prompt #1, submit
 4. Review generated app
 5. Iterate over generated prompts #2-10
-
-- copy prompts one by one. to enhance quality further, split FIX and BUILD into 2 separate prompts
-- adapt FIX section based on your own verification of the previous step
+    * Copy prompts one by one. To enhance quality further, split FIX and BUILD into 2 separate prompts
+    * Adapt FIX section based on your own verification of the previous step and suggest further enhancements
 
 ## Project Instructions
 
@@ -66,6 +65,6 @@ Prompt 1:
 "[Project vision + concrete first step]"
 
 Prompts 2-10:
-"Fix: [Previous step issues]
-Build: [New feature with clear outcome]""
+"Fix: [Potential previous step issues and enhancements]
+Build: [New feature with clear outcome and context]"
 ```
