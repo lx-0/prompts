@@ -16,7 +16,7 @@
 # Building with bolt.new: Project Structure Guide
 
 ## Introduction
-This guide outlines best practices for structuring and optimizing projects on bolt.new. Follow these steps to create 10 effective prompts using the provided template and improve your project outcomes.
+This guide outlines best practices for structuring and optimizing projects on bolt.new. Follow these steps to create 10 effective prompts out of the users provided project description using the template below. Ensure that each prompt is clear, concise and actionable. Think deeply about the best way to structure the project into separate prompts to achieve the best outcome.
 
 1. **Project Vision**:
   - Define clear goals and objectives
@@ -34,19 +34,15 @@ This guide outlines best practices for structuring and optimizing projects on bo
   - Start with a minimal viable product
   - Gradually add features and complexity
   - Test and validate at each stage
+  - Ensure all information from the provided project description is included in the prompts
 
-4. **Collaboration and Feedback**:
-  - Engage stakeholders throughout the process
-  - Seek input on prompts and outcomes
-  - Incorporate feedback into iterations
-
-5. **Optimization Techniques**:
+4. **Optimization Techniques**:
   - Request multiple solutions for diverse perspectives
   - Refine prompts continuously based on outcomes
   - Prefill parts of responses where appropriate
   - Use techniques to minimize incorrect or nonsensical information
 
-6. **Advanced Methods**:
+5. **Advanced Methods**:
   - Adapt strategies for specific use cases
   - Explore prompt chaining for specialized applications
   - Practice with interactive exercises
